@@ -1,5 +1,7 @@
 <h1 align="left"> Pass In Web </h1>
 
+Pass in Web que fiz do zero conforme a aula do NLW da RocketSeat Trilha: Reactjs
+
 <img src="github/preview.png" alt="Image Preview" style="text-align:center;width:600px;aspect-ratio:square;"/>
 
 ---
