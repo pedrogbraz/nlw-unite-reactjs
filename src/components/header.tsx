@@ -1,13 +1,14 @@
-import nlwUniteIcon from '../assets/nlw-unite-icon.svg'
-import { NavLink } from './nav-links'
+import nlwUniteIcon from '../assets/nlw-unite-icon.svg';
+import { NavLink } from './nav-links';
+
 export function Header() {
   return (
-    <div className='flex items-center gap-5 py-2'>
-      <img src={nlwUniteIcon} />
+    <div className="flex items-center gap-5 py-2">
+      <img src={nlwUniteIcon} alt="NLW Unite" />
 
-      <nav className='flex items-center gap-5'>
-        <NavLink className='text-zinc-300' href='#' text='Eventos' />
-        <NavLink href='#' text='Participantes' />
+      <nav className="flex items-center gap-5">
+        <NavLink href="/eventos">Eventos</NavLink>
+        <NavLink href="/participantes">Participantes</NavLink>
       </nav>
     </div>
   );
