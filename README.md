@@ -11,13 +11,13 @@ Pass in Web que fiz do zero conforme a aula do NLW da RocketSeat Trilha: Reactjs
 Execute este comando no seu terminal:
 
 ```
-git clone https://github.com/pedrogbraz/pass-in-web
+git clone https://github.com/pedrogbraz/nlw-unite-full-stacks
 ```
 
 Mover para o diretório
 
 ```
-cd ./pass-in-web-main
+cd ./nlw-unite-full-stacks-main
 ```
 
 Instale o projeto com
